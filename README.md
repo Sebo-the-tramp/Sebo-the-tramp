@@ -9,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I study chinese.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sebo-the-tramp&show_icons=true&theme=default&bg_color=#ffffff,#f34123)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sebo-the-tramp&show_icons=true?theme=dark&bg_color=#ffffff,#f34123)
