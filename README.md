@@ -1,7 +1,5 @@
 ### Hi there here is Sebastian 👋
 
-# Here are some ideas to get you started:
-
 - 🔭 I’m currently working on sustainable project: Refill
 - 🌱 I’m currently learning in UniBz
 - 👯 I’m looking to collaborate on with everyone.
@@ -11,4 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I study chinese.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sebo-the-tramp&show_icons=true&bg_color=DEG,#ffffff,#f34123)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sebo-the-tramp&show_icons=true&theme=default&bg_color=#ffffff,#f34123)
