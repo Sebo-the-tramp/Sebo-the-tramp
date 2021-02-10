@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on with everyone.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about anything.
-- 📫 How to reach me: here's my email
+- 📫 How to reach me: sebastian.cavada.dev@gmail.com
 - ⚡ Fun fact: I study chinese.
 
 ### What I know
