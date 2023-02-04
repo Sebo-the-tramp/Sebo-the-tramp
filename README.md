@@ -1,8 +1,8 @@
 ### Here is Sebastian 👋
 
 - 🔭 I’m currently working on a VR startup: RealverseVR
-- 🌱 I’m currently writing my these in UniBz
-- 👯 I’m looking to collaborate to create cool content.
+- 🌱 I’m currently writing my thesis in UniBz
+- 👯 I’m looking to collaborate to create cool content about Gym.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about anything.
 - 📫 How to reach me: sebastian.cavada.dev@gmail.com
