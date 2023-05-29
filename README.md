@@ -1,7 +1,6 @@
 ### Here is Sebastian 👋
 
-- 🔭 I’m currently working on a VR startup: RealverseVR
-- 🌱 I’m currently writing my thesis in UniBz
+- 🌱 I’m currently doing an Internship at FBK.
 - 👯 I’m looking to collaborate to create cool content about Gym.
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about anything.
